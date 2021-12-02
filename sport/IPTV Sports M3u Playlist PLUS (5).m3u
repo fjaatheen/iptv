@@ -1,0 +1,53 @@
+﻿#EXTM3U
+#EXTINF:-1 ,SporTV
+http://painel.tvdigitalsbl.net:80/vo/vo/13096
+#EXTINF:-1 ,SporTV | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13097
+#EXTINF:-1 ,SporTV | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13098
+#EXTINF:-1 ,SporTV 2
+http://painel.tvdigitalsbl.net:80/vo/vo/13099
+#EXTINF:-1 ,SporTV 2 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13100
+#EXTINF:-1 ,SporTV 2 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13101
+#EXTINF:-1 ,SporTV 3
+http://painel.tvdigitalsbl.net:80/vo/vo/13102
+#EXTINF:-1 ,SporTV 3 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13103
+#EXTINF:-1 ,SporTV 3 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13104
+#EXTINF:-1 ,Fox Sports
+http://painel.tvdigitalsbl.net:80/vo/vo/13347
+#EXTINF:-1 ,Fox Sports | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13348
+#EXTINF:-1 ,Fox Sports | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13349
+#EXTINF:-1 ,Fox Sports 2
+http://painel.tvdigitalsbl.net:80/vo/vo/13350
+#EXTINF:-1 ,Fox Sports 2 | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13351
+#EXTINF:-1 ,Fox Sports 2 | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13352
+#EXTINF:-1 ,Band Sports
+http://painel.tvdigitalsbl.net:80/vo/vo/13364
+#EXTINF:-1 ,Band Sports | HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13365
+#EXTINF:-1 ,Band Sports | FHD
+http://painel.tvdigitalsbl.net:80/vo/vo/13366
+#EXTINF:-1 ,TNT SPORT HD
+http://painel.tvdigitalsbl.net:80/vo/vo/13394
+#EXTINF:-1 ,BEIN SPORTS
+http://painel.tvdigitalsbl.net:80/vo/vo/19570
+#EXTINF:-1 ,Band Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19592
+#EXTINF:-1 ,Fox Sports 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19597
+#EXTINF:-1 ,Fox Sports | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19598
+#EXTINF:-1 ,Sportv | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19600
+#EXTINF:-1 ,Sportv 2 | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19601
+#EXTINF:-1 ,Sportv 3 | FHD - H264
+http://painel.tvdigitalsbl.net:80/vo/vo/19602
